@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "SharePoint New",
+    'name': "SharePoint",
 
    'summary': """SharePoint Odoo Integration""",
 
