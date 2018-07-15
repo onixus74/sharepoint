@@ -17,14 +17,11 @@ Thers is an optional directory-name field which tells whether file should be pla
 		Directory name is kept optional if its value is empty then file will be uploaded to root path of alfresco repository otherwise it will create directory with <directory-name>
     """,
 
-    'author': "Techloyce",
-    'website': "http://www.techloyce.com",
+    'author': "Techscope",
+    'website': "http://www.xyz.com",
 
     'category': 'Document Management',
     'version': '0.1',
-    'price':500,
-    'currency':'EUR',
-
     'depends': ['sale'],
 
     'data': [
